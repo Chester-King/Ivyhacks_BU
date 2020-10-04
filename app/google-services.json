@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "438059677456",
+    "firebase_url": "https://tempest-aura.firebaseio.com",
+    "project_id": "tempest-aura",
+    "storage_bucket": "tempest-aura.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438059677456:android:c0b437798f326993",
+        "android_client_info": {
+          "package_name": "com.reallyinvincible.aura"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438059677456-n3tqld4bsv179v092p6gatkd4o501np6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reallyinvincible.aura",
+            "certificate_hash": "2b65f66b5313307b8ba9e45f516f34b482226298"
+          }
+        },
+        {
+          "client_id": "438059677456-c4s0g476j9j8kcta9mdf03q7e5s4etr3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reallyinvincible.aura",
+            "certificate_hash": "01f7f2a5e921f0c797bc6cdd17b8ea8dd91a135a"
+          }
+        },
+        {
+          "client_id": "438059677456-ren143o6t4r1m18sn8m9rhiuol47f7m8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCug3zzslIfyeB7V49Jl3VQHLKsDO8yzvw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438059677456-ren143o6t4r1m18sn8m9rhiuol47f7m8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
